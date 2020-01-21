@@ -1,0 +1,47 @@
+.list {
+    color:#fff;
+    max-width: 90%;
+    min-width: 300px;
+    background-color: #3498db;
+    min-height: 50px;
+    margin: 20px auto;
+    border-radius: 5px;
+    font-family: Arial;
+    line-height: 2;
+}
+
+
+.list p {
+    padding: 10px;
+    text-align: center;
+}
+
+
+.list p span {
+    font-size: 15px;
+    cursor: pointer;
+    line-height: 8px;
+}
+.fatrash {
+    float: right;
+    margin: 8px 15px 0 10px;
+}
+
+.facircle {
+    float: left;
+    margin: 8px 10px 0 15px;
+}
+
+.list p input {
+    background-color: transparent;
+    border: 0;
+    color: white;
+    font-size: 18px;
+    overflow-wrap: break-word;
+}
+
+.list p input:focus {
+    outline: none;
+}
+
+
